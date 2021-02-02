@@ -7,6 +7,5 @@ const presets = [
             safari: "11.1"
         }
     }]
-]
-//暴露
-module.exports = { presets }
+];
+module.exports = { presets };
